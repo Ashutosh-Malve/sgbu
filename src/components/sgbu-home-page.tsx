@@ -125,7 +125,7 @@ export function SgbuHomePage() {
                     <div className="grid gap-1">
                       <h3 className="text-xl font-bold">Undergraduate Programs</h3>
                       <p className="text-muted-foreground">
-                        Explore our wide range of bachelor's degree programs across various disciplines.
+                        Explore our wide range of bachelor&apos;s degree programs across various disciplines.
                       </p>
                     </div>
                   </li>
@@ -133,7 +133,7 @@ export function SgbuHomePage() {
                     <div className="grid gap-1">
                       <h3 className="text-xl font-bold">Postgraduate Programs</h3>
                       <p className="text-muted-foreground">
-                        Advance your education with our master's and doctoral programs.
+                        Advance your education with our master&apos;s and doctoral programs.
                       </p>
                     </div>
                   </li>
